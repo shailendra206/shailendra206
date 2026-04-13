@@ -16,7 +16,6 @@
 
 ---
 
-- shailendra206.github.io
 - shailendra.goswami26@gmail.com
 
 [![My Portfolio](https://img.shields.io/badge/MY%20PORTFOLIO-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://shailendra206.github.io)
@@ -28,7 +27,6 @@
 
 - Frontend Developer focused on building interactive web applications using React.js and modern JavaScript
 - Strong understanding of API integration, state handling, and feature-driven UI development
-- Experienced in building real-time apps with third-party APIs like OpenWeather, GitHub, and DictionaryAPI
 - Deploying and hosting projects using GitHub Pages with responsive and accessible UI design
 - Passionate about crafting clean user experiences with attention to detail and performance
 
