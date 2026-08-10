@@ -9,32 +9,29 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GRAPHQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-- shailendra.goswami26@gmail.com
-
-[![My Portfolio](https://img.shields.io/badge/MY%20PORTFOLIO-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://shailendra206.github.io)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shailendra-goswami)
-
----
-
-## About me
-
-- Frontend Developer focused on building interactive web applications using React.js and modern JavaScript
-- Strong understanding of API integration, state handling, and feature-driven UI development
-- Deploying and hosting projects using GitHub Pages with responsive and accessible UI design
-- Passionate about crafting clean user experiences with attention to detail and performance
 
 ---
 
 ## Featured Projects
 
-- [Noctrus](https://shailendra206-live-ui-playground.vercel.app/) — Live UI Playground built with React.js and Tailwind CSS for real-time component customization
-- [Atheria](https://shailendra206.github.io/javascript-projects/23-weather-app/) — Weather app with geolocation, 5-day forecast, and solar cycle visualization
-- [Lexicon](https://shailendra206.github.io/javascript-projects/25-dictionary-app/) — Dictionary app with clickable synonyms, antonyms, and recursive word exploration
-- [GitHub User Finder](https://shailendra206.github.io/javascript-projects/24-github-user-finder/) — Search and display GitHub profiles with top repositories using the GitHub REST API
+- **[SubSync – Subscription Tracker](https://subsync-subscription-tracker.vercel.app/)** — Track and manage recurring subscriptions with renewal reminders
+- **[Live UI Playground](https://shailendra206-live-ui-playground.vercel.app/)** — Real-time component customization built with React.js and Tailwind CSS
+- **[Weather App](https://shailendra206.github.io/javascript-projects/23-weather-app/)** — Geolocation-based forecast with 5-day view and solar cycle visualization
+- **[Dictionary App](https://shailendra206.github.io/javascript-projects/25-dictionary-app/)** — Word lookup with clickable synonyms, antonyms, and recursive exploration
+- **[GitHub User Finder](https://shailendra206.github.io/javascript-projects/24-github-user-finder/)** — Search and display GitHub profiles with top repositories using the GitHub REST API
+
+---
+
+## About me
+
+Frontend dev building React apps with real API integrations (REST, GraphQL). Currently exploring cleaner state patterns and performance.
+
+---
+
+## Contact
+
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shailendra.goswami26@gmail.com)
+[![My Portfolio](https://img.shields.io/badge/MY%20PORTFOLIO-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://shailendra206.github.io)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shailendra-goswami)
