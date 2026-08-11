@@ -16,7 +16,7 @@
 
 ## Featured Projects
 
-- **[SubSync – Subscription Tracker](https://subsync-subscription-tracker.vercel.app/)** — Track and manage recurring subscriptions with renewal reminders
+- **[Subscription Tracker](https://subsync-subscription-tracker.vercel.app/)** — Track and manage recurring subscriptions with renewal reminders
 - **[Live UI Playground](https://shailendra206-live-ui-playground.vercel.app/)** — Real-time component customization built with React.js and Tailwind CSS
 - **[Weather App](https://shailendra206.github.io/javascript-projects/23-weather-app/)** — Geolocation-based forecast with 5-day view and solar cycle visualization
 - **[Dictionary App](https://shailendra206.github.io/javascript-projects/25-dictionary-app/)** — Word lookup with clickable synonyms, antonyms, and recursive exploration
