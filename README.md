@@ -18,14 +18,14 @@
 
 ## Featured Projects
 
-- **[Anime Information site](https://mitai-chi.vercel.app/)** — Get any Anime's information with the status
-- **[Subscription Tracker](https://subsync-subscription-tracker.vercel.app/)** — Track and manage recurring subscriptions with renewal reminders
+- **[Anime Discovery Platform | React.js, TypeScrip](https://mitai-chi.vercel.app/)** — Get any Anime's information with the status.
+- **[Subscription Tracker | React.js, Recharts](https://subsync-subscription-tracker.vercel.app/)** — Track and manage recurring subscriptions with renewal reminders.
 
 ---
 
 ## About me
 
-Frontend Developer with deployed React.js projects covering GraphQL integration, business-logic-driven state management and performance-optimized UI (99 Lighthouse Performance). Comfortable owning a feature end-to-end, from data modeling to API integration to a polished, accessible UI, with hands-on TypeScript and Next.js experience
+Frontend Developer with deployed React.js projects covering GraphQL integration, business-logic-driven state management and performance-optimized UI (99 Lighthouse Performance). Comfortable owning a feature end-to-end, from data modeling to API integration to a polished, accessible UI, with hands-on TypeScript and Next.js experience.
 
 ---
 
