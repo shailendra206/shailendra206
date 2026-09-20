@@ -20,18 +20,17 @@
 
 - **[Anime Information site](https://mitai-chi.vercel.app/)** — Get any Anime's information with the status
 - **[Subscription Tracker](https://subsync-subscription-tracker.vercel.app/)** — Track and manage recurring subscriptions with renewal reminders
-- **[Live UI Playground](https://shailendra206-live-ui-playground.vercel.app/)** — Real-time component customization built with React.js and Tailwind CSS
 
 ---
 
 ## About me
 
-Frontend dev building React apps with real API integrations (REST, GraphQL). Currently exploring cleaner state patterns and performance.
+Frontend Developer with deployed React.js projects covering GraphQL integration, business-logic-driven state management and performance-optimized UI (99 Lighthouse Performance). Comfortable owning a feature end-to-end, from data modeling to API integration to a polished, accessible UI, with hands-on TypeScript and Next.js experience
 
 ---
 
 ## Contact
 
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shailendra.goswami26@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shailendra.goswami50@gmail.com)
 [![My Portfolio](https://img.shields.io/badge/MY%20PORTFOLIO-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://shailendra206.github.io)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shailendra-goswami)
