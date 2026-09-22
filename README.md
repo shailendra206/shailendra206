@@ -25,7 +25,9 @@
 
 ## About me
 
-Frontend Developer with deployed React.js projects covering GraphQL integration, business-logic-driven state management and performance-optimized UI (99 Lighthouse Performance). Comfortable owning a feature end-to-end, from data modeling to API integration to a polished, accessible UI, with hands-on TypeScript and Next.js experience.
+Frontend Developer (React, TypeScript, Tailwind) who ships deployed apps with measurable performance wins, including
+cutting LCP from 3.8s to 2.0s on a GraphQL-driven app. Comfortable with URL-synced state, Context-based
+architecture, and accessible UI (95 Accessibility / 100 SEO).
 
 ---
 
