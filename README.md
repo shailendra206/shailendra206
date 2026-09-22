@@ -18,7 +18,7 @@
 
 ## Featured Projects
 
-- **[Anime Discovery Platform | React.js, TypeScrip](https://mitai-anime.vercel.app/)** — Get any Anime's information with the status.
+- **[Anime Discovery Platform | React.js, TypeScript](https://mitai-anime.vercel.app/)** — Get any Anime's information with the status.
 - **[Subscription Tracker | React.js, Recharts](https://subsync-tracker.vercel.app/)** — Track and manage recurring subscriptions with renewal reminders.
 
 ---
