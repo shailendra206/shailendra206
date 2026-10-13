@@ -1,7 +1,7 @@
 # Frontend Developer
 
 ### Shailendra Goswami
-
+![Node.js](https://shields.io)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -18,16 +18,16 @@
 
 ## Featured Projects
 
-- **[Anime Discovery Platform | React.js, TypeScript](https://mitai-anime.vercel.app/)** — Get any Anime's information with the status.
+- **[Anime Browsing App | Next.js, React.js, TypeScript, Tailwind CSS, Zustand, GraphQL](https://mitai-anime.vercel.app/)** — Get any Anime's information with the status.
 - **[Subscription Tracker | React.js, Recharts](https://subsync-tracker.vercel.app/)** — Track and manage recurring subscriptions with renewal reminders.
 
 ---
 
 ## About me
 
-Frontend Developer (React, TypeScript, Tailwind) who ships deployed apps with measurable performance wins, including
-cutting LCP from 3.8s to 2.0s on a GraphQL-driven app. Comfortable with URL-synced state, Context-based
-architecture, and accessible UI (95 Accessibility / 100 SEO).
+React Developer and Frontend Developer (React, Next.js, TypeScript, Tailwind CSS) who ships deployed apps with
+measurable performance wins, including cutting LCP from 3.8s to 1.2s on a GraphQL-driven app. Experienced with
+URL-synced state, Zustand state management, and accessible UI. Immediately available; open to relocation.
 
 ---
 
